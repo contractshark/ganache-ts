@@ -1,6 +1,6 @@
 {
   "name": "@contractshark/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": "David Murdoch",
   "homepage": "https://github.com/trufflesuite/ganache-core/tree/develop/src/packages/cli#readme",
@@ -48,7 +48,7 @@
     "truffle"
   ],
   "devDependencies": {
-    "@contractshark/core": "^0.1.0",
+    "@contractshark/core": "^0.1.1",
     "google-closure-compiler": "20201102.0.1"
   },
   "dependencies": {

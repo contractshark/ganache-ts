@@ -1,6 +1,6 @@
 {
   "name": "@contractshark/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library to create a local blockchain for fast Ethereum development.",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
   "homepage": "https://github.com/trufflesuite/ganache-core/tree/develop/src/packages/core#readme",
@@ -46,11 +46,11 @@
     "tooling"
   ],
   "dependencies": {
-    "contractshark-core": "^0.1.0",
-    "@contractshark/flavors": "^0.1.0",
-    "@contractshark/options": "^0.1.0",
-    "@contractshark/tezos": "^0.1.0",
-    "@contractshark/utils": "^0.1.0",
+    "@contractshark/flavors": "^0.1.1",
+    "@contractshark/options": "^0.1.1",
+    "@contractshark/tezos": "^0.1.1",
+    "@contractshark/utils": "^0.1.1",
+    "contractshark-core": "^0.1.1",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.4.0"
   },
   "devDependencies": {

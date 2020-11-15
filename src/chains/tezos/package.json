@@ -1,6 +1,6 @@
 {
   "name": "@contractshark/tezos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ganache's Tezos client implementation",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
   "homepage": "https://github.com/trufflesuite/ganache-core/tree/develop/src/chains/tezos#readme",
@@ -40,8 +40,8 @@
     "tooling"
   ],
   "dependencies": {
-    "@contractshark/options": "^0.1.0",
-    "@contractshark/utils": "^0.1.0",
+    "@contractshark/options": "^0.1.1",
+    "@contractshark/utils": "^0.1.1",
     "emittery": "0.7.2"
   },
   "devDependencies": {
