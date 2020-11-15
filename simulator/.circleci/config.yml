@@ -1,0 +1,14 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8.11
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      - run: npm install
+      # twice because for some reason it missed a package
+      - run: npm install
+      - run: ./build.sh
