@@ -1,5 +1,5 @@
 {
-  "name": "ganache",
+  "name": "contractshark-ganache",
   "version": "3.0.0",
   "description": "A library and cli to create a local blockchain for fast Ethereum development.",
   "author": "David Murdoch",
@@ -49,8 +49,8 @@
     "truffle"
   ],
   "devDependencies": {
-    "@contractshark/cli": "^0.1.1",
-    "@contractshark/flavors": "^0.1.1",
+    "contractshark-ganache-cli": "^0.1.1",
+    "contractshark-ganache-flavors": "^0.1.1",
     "@types/node": "14.14.6",
     "assert": "2.0.0",
     "buffer": "6.0.1",
