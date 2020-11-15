@@ -46,10 +46,9 @@
     "tooling"
   ],
   "dependencies": {
-    "@contractshark/flavors": "^0.1.1",
-    "@contractshark/options": "^0.1.1",
-    "@contractshark/tezos": "^0.1.1",
-    "@contractshark/utils": "^0.1.1",
+    "contractshark-ganache-flavors": "^0.1.1",
+    "contractshark-ganache-options": "^0.1.1",
+    "contractshark-ganache-utils": "^0.1.1",
     "contractshark-core": "^0.1.1",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.4.0"
   },
