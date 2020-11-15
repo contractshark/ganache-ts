@@ -1,5 +1,5 @@
 {
-  "name": "@contractshark/flavors",
+  "name": "contractshark-ganache-flavors",
   "version": "0.1.1",
   "description": "Ganache's flavors enumeration and TypeScript types",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
@@ -47,5 +47,6 @@
   },
   "devDependencies": {
     "google-closure-compiler": "20201102.0.1"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }

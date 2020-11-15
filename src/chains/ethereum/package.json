@@ -88,5 +88,6 @@
     "ts-transformer-inline-file": "0.1.1",
     "typedoc": "0.17.8",
     "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.4.0"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }

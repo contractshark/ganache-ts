@@ -1,5 +1,5 @@
 {
-  "name": "@contractshark/promise-queue",
+  "name": "contractshark-promise-queue",
   "version": "0.1.1",
   "description": "A queue that resolves Promise instances in first-in first-out order.",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
@@ -44,5 +44,6 @@
   ],
   "dependencies": {
     "emittery": "0.7.2"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }

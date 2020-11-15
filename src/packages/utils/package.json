@@ -1,5 +1,5 @@
 {
-  "name": "@contractshark/utils",
+  "name": "contractshark-ganache-utils",
   "version": "0.1.1",
   "description": "Utility functions for @contractshark packages",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
@@ -51,5 +51,6 @@
   },
   "optionalDependencies": {
     "bigint-buffer": "1.1.5"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }

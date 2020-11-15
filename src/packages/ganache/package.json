@@ -76,5 +76,6 @@
     "keccak": "3.0.1",
     "leveldown": "5.6.0",
     "secp256k1": "4.0.2"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }

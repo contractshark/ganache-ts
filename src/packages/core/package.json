@@ -1,5 +1,5 @@
 {
-  "name": "@contractshark/core",
+  "name": "contractshark-ganache-core",
   "version": "0.1.1",
   "description": "A library to create a local blockchain for fast Ethereum development.",
   "author": "David Murdoch <david@trufflesuite.com> (https://davidmurdoch.com)",
@@ -57,5 +57,6 @@
     "@types/superagent": "4.1.10",
     "superagent": "6.1.0",
     "ws": "7.3.1"
-  }
+  },
+  "gitHead": "f64218ebd7cd76e70cbb56baa891af9bf5fc5fb8"
 }
